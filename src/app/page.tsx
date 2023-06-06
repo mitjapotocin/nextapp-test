@@ -7,6 +7,8 @@ export default function Home() {
     <main className={styles.main}>
       <Link href="/mitja">Mitja</Link>
       <Link href="/janez">Janez</Link>
+      <Link href="/brewery/123">Brewery 123</Link>
+      <Link href="/brewery/5544">Brewery 5544</Link>
     </main>
   );
 }
